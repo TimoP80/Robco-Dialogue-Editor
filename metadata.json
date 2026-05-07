@@ -1,0 +1,6 @@
+{
+  "name": "Fallout Dialogue Creator",
+  "description": "A node-based dialogue editor for Fallout 2 modding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
